@@ -1,6 +1,7 @@
 # DelphiAssemblyCalculator
  Delphi 🚀 Mastering Inline Assembly: Build a High-Performance Calculator with Pure ASM ! 💻✨
 # 🔥 Welcome to this hands-on Delphi Assembly tutorial! 🔥
+![](https://github.com/mben-dz/DelphiAssemblyCalculator/blob/main/22.jpeg)
 
 In this video, we dive deep into writing high-performance mathematical operations using Inline Assembly in Delphi! 🚀 We'll build a fully functional calculator capable of Addition, Subtraction, Multiplication, and Division using pure x86 assembly inside Delphi.
 
