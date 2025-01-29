@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/12/21 10:04:42.000.023,=F:\2031\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/01/29 04:34:20.000.651,=F:\2031\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/01/29 04:35:43.000.984,F:\2032\Assembly\Calculator\Main.View.dfm=F:\2031\Projects\Unit1.dfm</Transaction>
+    <Transaction>2025/01/29 04:35:43.000.984,F:\2032\Assembly\Calculator\Main.View.pas=F:\2031\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/01/29 04:35:53.000.072,F:\2032\Assembly\Calculator\Calc.dproj=F:\2031\Projects\Project1.dproj</Transaction>
+    <Transaction>2025/01/29 22:27:08.000.077,=F:\2032\Assembly\Calculator\Unit1.pas</Transaction>
+    <Transaction>2025/01/29 22:28:59.000.015,F:\2032\Assembly\Calculator\Unit1.pas=F:\2032\Assembly\Calculator\API\API.AssemblyCalc.pas</Transaction>
+  </Transactions>
+</BorlandProject>
